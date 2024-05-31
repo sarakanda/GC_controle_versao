@@ -1,1 +1,2 @@
 "exemplo adicionado arquivo de texto ao repositorio local" 
+editando o primeiro arquivo que foi colocado nesse repositorio - passo 12 da atividade
